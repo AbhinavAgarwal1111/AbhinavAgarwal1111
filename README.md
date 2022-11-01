@@ -43,7 +43,7 @@ Abhinav</a></h1>
       </div>
 
 </p>
-📈 my github stats
+<h3 align="center">📈 My Github Stats</h3>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhinavAgarwal1111&show_icons=true&theme=gotham" alt="AbhinavAgarwal1111" />
 
