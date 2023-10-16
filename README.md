@@ -9,8 +9,6 @@
 - 🌱 I’m continually learning and improving my skills.
 - 👯 I’m looking to collaborate with other data analysts, designers, and developers.
 - ⚡ I am also dedicated to creating data-driven and visually appealing designs.
-- 🌱 I’m currently engaging in the 100 Days Of Code Challenge <a href="https://github.com/AbhinavAgarwal1111/100DaysOfCode" target="blank">100DaysOfCodeChallenge</a>
-
 - 💬 Ask me about **Data Analysis, Data Visualization, and Front-End Design**
 
 - 📫 How to reach me: **abhinavagarwal9999@gmail.com** or **[LinkedIn Profile](https://www.linkedin.com/in/abhinav-agarwal-571b78229/)**
