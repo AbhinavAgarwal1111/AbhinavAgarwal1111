@@ -1,31 +1,19 @@
-
-
-<!---
-AbhinavAgarwal1111/AbhinavAgarwal1111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/AbhinavAgarwal1111" target="blank">
-Abhinav</a></h1>
-<h3 align="center">A Passionate Web Developer from Delhi,India &#127470;&#127475</h3>
-
-
-
-
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/AbhinavAgarwal1111" target="blank">Abhinav</a></h1>
+<h3 align="center">A Passionate Data Analyst and Front-End Designer from Delhi, India &#127470;&#127475</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="200" height="250" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently Working on Web Development Projects
-- 🌱 I’m currently learning JS
-- 👯 I’m looking to collaborate with other developers and designers 
-- ⚡ I am also an active listener. 
-- 🌱 I’m currently doing 100 Days Of Code Challenge <a href="https://github.com/AbhinavAgarwal1111/100DaysOfCode" target="blank">100DaysOfCodeChallenge</a>
+- 🔭 I’m currently Working on Data Analysis and Front-End Design Projects
+- 🌱 I’m continually learning and improving my skills.
+- 👯 I’m looking to collaborate with other data analysts, designers, and developers.
+- ⚡ I am also dedicated to creating data-driven and visually appealing designs.
+- 🌱 I’m currently engaging in the 100 Days Of Code Challenge <a href="https://github.com/AbhinavAgarwal1111/100DaysOfCode" target="blank">100DaysOfCodeChallenge</a>
 
+- 💬 Ask me about **Data Analysis, Data Visualization, and Front-End Design**
 
-- 💬 Ask me about **Web Development and Java**
-
-- 📫 How to reach me **abhinavagarwal9999@gmail.com** or **https://www.linkedin.com/in/abhinav-agarwal-571b78229/**
+- 📫 How to reach me: **abhinavagarwal9999@gmail.com** or **[LinkedIn Profile](https://www.linkedin.com/in/abhinav-agarwal-571b78229/)**
 
 - 📄 Know about my experiences <a href="https://github.com/AbhinavAgarwal1111/AbhinavAgarwal1111/blob/main/Abhinav_resume.docx?raw=true" target="blank">Resume</a>
 <br/>
@@ -44,6 +32,7 @@ Abhinav</a></h1>
 
 </p>
 <h3 align="center">📈 My Github Stats</h3>
+
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhinavAgarwal1111&show_icons=true&theme=gotham" alt="AbhinavAgarwal1111" />
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavAgarwal1111" alt="AbhinavAgarwal1111" /></p>
