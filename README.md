@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **abhinavagarwal9999@gmail.com** or **[LinkedIn Profile](https://www.linkedin.com/in/abhinav-agarwal-571b78229/)**
 
-- 📄 Know about my experiences <a href="https://github.com/AbhinavAgarwal1111/AbhinavAgarwal1111/blob/main/Abhinav_Resume.pdf?raw=true" target="blank">Resume</a>
+- 📄 Know about my experiences <a download="Abhinav_Resume.pdf" href="https://github.com/AbhinavAgarwal1111/AbhinavAgarwal1111/blob/main/Abhinav_Resume.pdf?raw=true">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
