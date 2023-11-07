@@ -31,7 +31,6 @@
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhinavAgarwal1111&show_icons=true&theme=gotham" alt="AbhinavAgarwal1111" />
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavAgarwal1111" alt="AbhinavAgarwal1111" /></p>
 ---
 
 Credit: [Abhinav Agarwal](https://github.com/AbhinavAgarwal1111)
